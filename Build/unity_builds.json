@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D_Shootemup_tugraz_assignment0",
+"productVersion": "1.0",
+"dataUrl": "unity_builds.data.unityweb",
+"wasmCodeUrl": "unity_builds.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity_builds.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
